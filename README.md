@@ -1,7 +1,7 @@
 # roadmap
 A product roadmap for the launch of grooveLog
 
-RoadMap:
+RoadMap for the website/desktop application (App Roadmap will be planned separately)
 
 ### 0.1.0
 * Website with a front page
