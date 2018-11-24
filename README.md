@@ -8,7 +8,7 @@ RoadMap for the website/desktop application (App Roadmap will be planned separat
 * User can sign up via email / facebook etc. and create a basic user profile.
 * Includes the 'Meditations' section, to begin with these are randomly rotated.
 * Allow account deletion
-* Will require statements legal concerns, GDPR etc.
+* Will require policies for legal conciderations, GDPR etc.
 
 #### Marketing / Engagement
 * Use this to attract 20 or so mates/supporters, just check that site rendering and user authentication ar OK
