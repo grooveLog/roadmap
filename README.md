@@ -1,14 +1,15 @@
-# roadmap
-A product roadmap for the launch of grooveLog
+# GrooveLog Roadmap
+A product roadmap for the launch of GrooveLog
 
 RoadMap for the website/desktop application (App Roadmap will be planned separately)
 
 ## 0.1.0 User Authentication
 * Website with a front page
 * User can sign up via email / facebook etc. and create a basic user profile.
+* Includes the 'Meditations' section, to begin with these are randomly rotated.
 * Will require statements legal concerns, GDPR etc.
 
-### Marketing / Engagement
+#### Marketing / Engagement
 * Use this to attract 20 or so mates/supporters, just check that site rendering and user authentication ar OK
 
 
@@ -16,7 +17,7 @@ RoadMap for the website/desktop application (App Roadmap will be planned separat
 ## 0.2.0 Know Thyself: Questionnaires
 * Add 'Know Thyself: Questionnaires' section with Big 5 Traits Questionnaire available
 
-### Marketing / Engagement
+#### Marketing / Engagement
 * Promote this to attract more people, perhaps paid ads? Try to get more than 100 signups who actually complete the questionnaire.  People * will get value from doing the free questionnaire and seeing how they compare to the general population as well as basic insights about their personality.
 
 
@@ -25,7 +26,7 @@ RoadMap for the website/desktop application (App Roadmap will be planned separat
 * This will include a database of universal'to be' statements which users can select, or they can make their own and choose whether these are also suitable for the universal list. There will be an approval process for adding user created universal items to the database.
 * Privacy: Each Vision can be declared Public/Private 
 
-### Marketing / Engagement
+#### Marketing / Engagement
 * Encourage people to think about their life visions, their long term desires, their 'to be' statements, and add a few to GrooveLog
 
 
@@ -42,5 +43,17 @@ RoadMap for the website/desktop application (App Roadmap will be planned separat
 * There will also be a database of Universal Grooves, selectable and user created with an approval process before acceptance.
 * Privacy: Each Groove can be declared Public/Private 
 
-## 0.6.0 
- 
+## 0.6.0 Feeds/Dashboard
+* Enable Personal Feeds area
+* Shows initial sign-up datetime, questionnaire completion, visions / goals added
+
+## 1.0.0 Official LAUNCH
+* Official Launch of GrooveLog
+
+#### Marketing / Engagement
+* Widespread marketing
+* Early adopters/supporters given free life membership, assuming their usage has met pre-agreed criteria
+* Introduction of a pricing model / business model
+
+## 2.0.0 Enabling TEAMS 
+* Open GrooveLog to teams, clubs, and the corporate market
