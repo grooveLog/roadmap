@@ -88,6 +88,7 @@ RoadMap for the website/desktop application (App Roadmap will be planned separat
 
 ## 1.0.0 Official LAUNCH
 * Official Launch of GrooveLog
+* Aim to have at least 1,000 regular users/supporters prior to launch so platform is fully tested
 
 #### Marketing / Engagement
 * Widespread marketing
