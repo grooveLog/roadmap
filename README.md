@@ -91,6 +91,7 @@ RoadMap for the website/desktop application (App Roadmap will be planned separat
 * Aim to have at least 1,000 regular users/supporters prior to launch so platform is fully tested
 
 #### Marketing / Engagement
+* Note: "No business plan ever survives first contact with customers" - Derek Sivers
 * Widespread marketing
 * Early adopters/supporters given free life membership, assuming their usage has met pre-agreed criteria
 * Introduction of a pricing model / business model
