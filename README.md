@@ -16,10 +16,10 @@ Facebook: https://www.facebook.com/groovelog
 * Allow account deletion
 * Will require policies for legal conciderations, GDPR etc.
 
-#### Marketing / Engagement
-* Attract 20 or so mates/supporters/family
-* Ensure that site rendering and user authentication ar OK
-* Slowly build social media presence
+> #### Marketing / Engagement
+> * Attract 20 or so mates/supporters/family
+> * Ensure that site rendering and user authentication ar OK
+> * Slowly build social media presence
 
 
 
