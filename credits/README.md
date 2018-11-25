@@ -11,15 +11,15 @@ Thanks for listening to my idea, giving feedback, offering support, sitting thro
 * Mandar Kharkur: Thanks for reviewing the early prototype and for your offers of support
 * Eric Troffigue: Thanks for the positive feedback when first airing the prototype and concept
 * Rob Shipley: Thanks for being positive when you saw the early prototype
-Graeme Dewe: Your early positive feedback of my initial pitch / prototype was encouraging
-Kevin Hamilton: Thanks for being positive about the idea and for letting me use your brilliant Ben Nevis photo
-Andre Figuera: Thanks for the enduring support, enthusiasm, and practical tips on the VueJS
-Duncan Meyers: Thanks for your interest in the prototype and your Venn Diagram suggestion (relating to Strave/MyFitnessPal)
-Ben Parish: Thanks for the good feedback around the prototype, and general support
-Steve Rothwell: Thanks your encouragement and positivity around the prototype and idea
-Rich Millington: Thanks for your feedback on the prototype demo
-Gemma Henson: Thanks for your interest, positivity and support
-Pual Risk: Thanks for going through the later stage prototype, your constructive ideas, and offers of support
-Claire Essex-Crosby: Thanks for your positive feedback on the late stage prototype
-Jonathan Levin: Thanks for you offer of support to help with Data Modelling
+* Graeme Dewe: Your early positive feedback of my initial pitch / prototype was encouraging
+* Kevin Hamilton: Thanks for being positive about the idea and for letting me use your brilliant Ben Nevis photo
+* Andre Figuera: Thanks for the enduring support, enthusiasm, and practical tips on the VueJS
+* Duncan Meyers: Thanks for your interest in the prototype and your Venn Diagram suggestion (relating to Strave/MyFitnessPal)
+* Ben Parish: Thanks for the good feedback around the prototype, and general support
+* Steve Rothwell: Thanks your encouragement and positivity around the prototype and idea
+* Rich Millington: Thanks for your feedback on the prototype demo
+* Gemma Henson: Thanks for your interest, positivity and support
+* Pual Risk: Thanks for going through the later stage prototype, your constructive ideas, and offers of support
+* Claire Essex-Crosby: Thanks for your positive feedback on the late stage prototype
+* Jonathan Levin: Thanks for you offer of support to help with Data Modelling
 
