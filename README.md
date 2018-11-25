@@ -3,7 +3,7 @@ A product roadmap for the launch of GrooveLog
 
 RoadMap for the website/desktop application (App Roadmap will be planned separately)
 
-## 0.1.0 User Authentication
+# 0.1.0 User Authentication
 * Website with a front page
 * User can sign up via email / facebook etc. and create a basic user profile.
 * Includes the 'Meditations' section, to begin with these are randomly rotated.
@@ -15,7 +15,7 @@ RoadMap for the website/desktop application (App Roadmap will be planned separat
 
 
 
-## 0.2.0 Know Thyself: Questionnaires
+# 0.2.0 Know Thyself: Questionnaires
 * Add 'Know Thyself: Questionnaires' section with Big 5 Traits Questionnaire available
 
 #### Marketing / Engagement
