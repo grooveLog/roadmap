@@ -136,7 +136,7 @@ Facebook: https://www.facebook.com/groovelog
 * Aim to have at least 1,000 regular users/supporters prior to launch so platform is fully tested
 
 > #### Marketing / Engagement
-> * Note: "No business plan ever survives first contact with customers" - Derek Sivers
+> * Note: "No business plan ever survives first contact with customers" - [Derek Sivers](https://sivers.org/)
 > * Start aiming for mass market appeal
 > * Early adopters/supporters given free life membership, assuming their usage has met pre-agreed criteria
 > * Introduction of a pricing model / business model
