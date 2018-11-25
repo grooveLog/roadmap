@@ -140,6 +140,7 @@ Facebook: https://www.facebook.com/groovelog
 > * Start aiming for mass market appeal
 > * Early adopters/supporters given free life membership, assuming their usage has met pre-agreed criteria
 > * Introduction of a pricing model / business model
+> * Starting conversations with 'Social Celebrities', those with big social followings who already adhere to daily habits/rituals. Invite them to try GrooveLog, publish their rutuals, and inspire others 
 
 # 1.1.0 Feeds from other apps
 * Begin supporting API feeds from other apps - e.g. Fitbit, Strava, MyFitnessPal etc.
@@ -153,3 +154,8 @@ Facebook: https://www.facebook.com/groovelog
 > #### Marketing / Engagement
 > * Marketing to corporates will offer the most revenue potential...
 > * Difficult to put any concrete plans in place for this because much will change before we get here. Before getting to this point we will probably need to take a serious look at attracting investors/funding etc... 
+
+
+# Possible Spin-off Projects:
+* GrooveLog for Kids (under 13s), encouraging them to do homework, tidy their room etc.
+* Questionnaire only platform - strip the featueres down and just use the questionnaires
