@@ -29,7 +29,7 @@ Facebook: https://www.facebook.com/groovelog
 
 > #### Marketing / Engagement
 > * Promote this to attract more people, perhaps paid ads?
-> * This will appeal strongly to the many followers of the Clinical Psychologist / Author, Jordan Peterson (https://www.youtube.com/user/JordanPetersonVideos)
+> * This will appeal strongly to the many followers of the Clinical Psychologist / Author, [Jordan Peterson](https://jordanbpeterson.com/) (https://www.youtube.com/user/JordanPetersonVideos)
 > * Try to get more than 100 signups who actually complete the questionnaire.  People will get value from doing the free questionnaire and seeing how they compare to the general population as well as basic insights about their personality.
 
 
@@ -90,7 +90,7 @@ Facebook: https://www.facebook.com/groovelog
 * Provide a Quesion of the Day, Random Questions and allow custom question contribuions
 
 > #### Marketing / Engagement
-> * Try to engage advocates of Journalling e.g. Tim Ferris and followers
+> * Try to engage advocates of Journalling e.g. [Tim Ferris](https://tim.blog/) and followers
 
 # 0.10.0 User Interactions and the GROOVY button
 * Enable users to 'support' each other (E.g. followers)
