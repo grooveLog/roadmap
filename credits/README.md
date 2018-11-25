@@ -5,12 +5,12 @@ GrooveLog is starting out as a bootstrapped side project, and hence any help is 
 ## Early days:
 Thanks for listening to my idea, giving feedback, offering support, sitting throuhg my prototype demo
 
-Jenny Durrant: Thanks for enduring my continual flow of random ideas, and for giving me the space to indulge them  
-Laura Jarret: Thanks for listening to my initial pitch and being a fantastic soundboard  
-Mindaugas Vedingovas: Thanks for taking a look a the very early proof of concept and saying nice words  
-Mandar Kharkur: Thanks for reviewing the early prototype and for your offers of support
-Eric Troffigue: Thanks for the positive feedback when first airing the prototype and concept
-Rob Shipley: Thanks for being positive when you saw the early prototype
+* Jenny Durrant: Thanks for enduring my continual flow of random ideas, and for giving me the space to indulge them  
+* Laura Jarret: Thanks for listening to my initial pitch and being a fantastic soundboard  
+* Mindaugas Vedingovas: Thanks for taking a look a the very early proof of concept and saying nice words  
+* Mandar Kharkur: Thanks for reviewing the early prototype and for your offers of support
+* Eric Troffigue: Thanks for the positive feedback when first airing the prototype and concept
+* Rob Shipley: Thanks for being positive when you saw the early prototype
 Graeme Dewe: Your early positive feedback of my initial pitch / prototype was encouraging
 Kevin Hamilton: Thanks for being positive about the idea and for letting me use your brilliant Ben Nevis photo
 Andre Figuera: Thanks for the enduring support, enthusiasm, and practical tips on the VueJS
