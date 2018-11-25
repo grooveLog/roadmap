@@ -1,0 +1,3 @@
+# Thanking those who have supported / advised / conributed
+
+GrooveLog is starting out as a bootstrapped side project, and hence any help is welcome. This is a page to recognise people who have spared some of their precious time / intellect / emotions into offering feedback, advice, or contributions... If the project grows into something big... etc. more to do...
