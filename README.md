@@ -142,8 +142,9 @@ Facebook: https://www.facebook.com/groovelog
 > * Introduction of a pricing model / business model
 > * Starting conversations with 'Social Celebrities', those with big social followings who already adhere to daily habits/rituals. Invite them to try GrooveLog, publish their rutuals, and inspire others 
 
-# 1.1.0 Feeds from other apps
+# 1.1.0 Integrations with other apps
 * Begin supporting API feeds from other apps - e.g. Fitbit, Strava, MyFitnessPal etc.
+* "Alexa, log my Groove: Pushups"
 
 # 1.2.0 Customisable Questionnaires
 * Add customisable questionnaires. People can design questionnaires which will help people to know themselves and carve better grooves
