@@ -4,7 +4,9 @@ A product roadmap for the launch of GrooveLog
 RoadMap for the website/desktop application (App Roadmap will be planned separately)
 
 Web: https://www.groovelog.com (Domain secureed, site upload pending)
+
 Twitter: https://twitter.com/LogGroove
+
 Facebook: https://www.facebook.com/groovelog
 
 # 0.1.0 User Authentication
