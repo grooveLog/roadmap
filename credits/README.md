@@ -18,7 +18,8 @@ Thanks for listening to my idea, giving feedback, offering support, sitting thro
 * Ben Parish: Thanks for the good feedback around the prototype, and general support
 * Steve Rothwell: Thanks your encouragement and positivity around the prototype and idea
 * Rich Millington: Thanks for your feedback on the prototype demo
-* Gemma Henson: Thanks for your interest, positivity and support
+* Grant O'Leary: Thanks for you interest and feedback on the prototype demo
+* Gemma Henson: Thanks for your interest, positivity and continued support
 * Pual Risk: Thanks for going through the later stage prototype, your constructive ideas, and offers of support
 * Claire Essex-Crosby: Thanks for your positive feedback on the late stage prototype
 * Jonathan Levin: Thanks for you offer of support to help with Data Modelling
