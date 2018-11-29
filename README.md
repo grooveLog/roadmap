@@ -9,6 +9,8 @@ Twitter: https://twitter.com/LogGroove
 
 Facebook: https://www.facebook.com/groovelog
 
+YouTube: https://www.youtube.com/channel/UCJdMFZouemSN_WpoNeDI1mg
+
 # 0.1.0 User Authentication
 * Website with a front page intro and sign up
 * User can sign up via email / facebook etc. and create a basic user profile
