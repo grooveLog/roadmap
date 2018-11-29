@@ -92,7 +92,11 @@ Facebook: https://www.facebook.com/groovelog
 > #### Marketing / Engagement
 > * Try to engage advocates of Journalling e.g. [Tim Ferris](https://tim.blog/) and followers
 
-# 0.10.0 User Interactions and the GROOVY button
+# 0.10.0 Add and Record Tasks
+* Enable Tasks (To Do Items) which are postable to feeds
+* Allow Tasks to be linked to Goals/Visions to make them more compelling
+
+# 0.11.0 User Interactions and the GROOVY button
 * Enable users to 'support' each other (E.g. followers)
 * Enable users to search for each other and view each others profiles
 * View each other's feeds
@@ -105,15 +109,15 @@ Facebook: https://www.facebook.com/groovelog
 > * Create social commentary around tribes, and supporting one another in our endeavours.
 > * The product is now quite rich in functionality, so time to start engagement with large groups of people who already may be tracking their habits via other means (Fitbit / Strava etc.) - Target sports clubs / online social groups around fitness / groups assoiciated with character building / philosophy of life / self-improvement / stoicism etc.
 
-# 0.11.0 Misogi
+# 0.12.0 Misogi
 * Enable Misogi, highlighting a goal/vision as a potential Misogi
 * A Misogi is something so difficult, with a high probability of failure, that you can only do one Misogi per year but the experience will stay with you for the remaining 365 days
 * Allow people to post Misogis they've acheived in previous years.
 
-# 0.11.0 Groove Scheduler
+# 0.13.0 Groove Scheduler
 * Let people schedule which grooves they are likely to do on certain days of the week
 
-# 0.12.0 Inspiration & Challenges
+# 0.14.0 Inspiration & Challenges
 * Add social Inspriation events and challenges to the platform
 * Committing to an event will automatically populate your groove schedule with the associated grooves
 
@@ -121,14 +125,14 @@ Facebook: https://www.facebook.com/groovelog
 > * This is a big opportunity for social engagement
 > * Create inspiration around pre-existing events or organisations and create relationships with them.
 
-# 0.13.0 Mentors
+# 0.15.0 Mentors
 * Supporters can become Mentors (e.g. your personal trainer, coach, music teacher, therapist, can join groove log and support you
 * Also select from MentorBots - automated encouragement
 
 > #### Marketing / Engagement
 > * Create relationships with trainers / teachers / coaches etc. Pique their interest and support, encourage sign ups
 
-# 0.14.0 Fully Social
+# 0.16.0 Fully Social
 * Allow commenting within the feeds for full social interactivity
 
 # 1.0.0 Official LAUNCH
